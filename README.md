@@ -1,4 +1,4 @@
-### Hi there 👋
+## I am SIN
 
 <!--
 **sin1012/sin1012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Kaggle Jigsaw Multilingual Toxic Comment Classification Solo Gold Medal
