@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Current Competitions:
 - SIIM-ISIC Melanoma Classification **100 / 3602** at August 5th
-- Global Wheat Detection **172 / 2770** at August 5th (ranking pending)
+- Global Wheat Detection **1 / 2770** at August 5th (ranking pending)
 
 Competition History:
 - Jigsaw Multilingual Toxic Comment Classification **12 / 1621** (solo Gold Medal)
