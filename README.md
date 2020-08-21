@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Current Ranking: **674/146821** up to 08/21/2020
 
-Current Competitions:
-- SIIM-ISIC Melanoma Classification **100 / 3602** at August 5th
-- Global Wheat Detection **1 / 2770** at August 5th (ranking pending)
-
-Competition History:
+Competition History(I actually spend some time on):
+- SIIM-ISIC Melanoma Classification **315 / 3602** (team Bronze Medal)
 - Jigsaw Multilingual Toxic Comment Classification **12 / 1621** (solo Gold Medal)
 - TReNDS Neuroimaging **122 / 1047** (no Medal)
 - M5 Forecasting - Accuracy **790 / 5558** (no Medal)
