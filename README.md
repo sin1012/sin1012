@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Current Ranking: **674/146821** up to 08/21/2020
+Current Ranking: **674th in the world** up to 08/21/2020
 
 Competition History(I actually spend some time on):
 - SIIM-ISIC Melanoma Classification **315 / 3602** (team Bronze Medal)
