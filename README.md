@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Current Ranking: **624th in the world** up to 08/21/2020
+Current Ranking: **624th in the world** up to 09/20/2020
 
-Competition History(I actually spend some time on):
+### Competition History:
+- Halite two sigma **22 / 1143**(team Silver Medal)
 - Cornell Birdcall Identification **111 / 1930** (team Bronze Medal)
 - SIIM-ISIC Melanoma Classification **315 / 3602** (team Bronze Medal)
 - Jigsaw Multilingual Toxic Comment Classification **12 / 1621** (solo Gold Medal)
