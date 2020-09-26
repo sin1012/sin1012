@@ -1,5 +1,5 @@
 ## I am SIN
-Current Ranking: **499th in the world** up to 09/20/2020
+Current Ranking: **499th in the world** up to 09/25/2020
 
 ### Competition History:
 - Halite two sigma **22 / 1143**(team Silver Medal) :2nd_place_medal:
