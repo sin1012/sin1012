@@ -1,7 +1,9 @@
 ## I am SIN
-Current Ranking: **499th in the world** up to 09/25/2020
+Current Ranking: **464th in the world** up to 09/25/2020
 
 ### Competition History:
+- OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction **268/1636** (no medal)
+- Google Landmark Recognition **60/ 736**(team Bronze Medal) :3rd_place_medal:
 - Halite two sigma **22 / 1143**(team Silver Medal) :2nd_place_medal:
 - Cornell Birdcall Identification **111 / 1930** (team Bronze Medal) :3rd_place_medal:
 - SIIM-ISIC Melanoma Classification **315 / 3602** (team Bronze Medal) :3rd_place_medal:
