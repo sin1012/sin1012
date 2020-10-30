@@ -1,5 +1,5 @@
-## I am SIN
-Current Ranking: **464th in the world** up to 09/25/2020
+## I am sin
+Current Ranking: **384th in the world** up to 10/29/2020
 
 ### Competition History:
 - RNSA 3D Pulmonary Embolism Detection: **30/784** (team silver medal) :2nd_place_medal:
