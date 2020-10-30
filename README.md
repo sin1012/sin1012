@@ -2,6 +2,7 @@
 Current Ranking: **464th in the world** up to 09/25/2020
 
 ### Competition History:
+- RNSA 3D Pulmonary Embolism Detection: **30/784** (team silver medal) :2nd_place_medal:
 - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction **268/1636** (no medal)
 - Google Landmark Recognition **60/ 736**(team Bronze Medal) :3rd_place_medal:
 - Halite two sigma **22 / 1143**(team Silver Medal) :2nd_place_medal:
