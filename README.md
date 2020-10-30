@@ -1,6 +1,8 @@
 ## I am sin
 Current Ranking: **384th in the world** up to 10/29/2020
 
+![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5168115%2Fb07a895cf5d302f462738fd121f39d9f%2FScreenshot_2020-10-30%20sin%20Kaggle.png?generation=1604043103771639&alt=media)
+
 ### Competition History:
 - RNSA 3D Pulmonary Embolism Detection: **30/784** (team silver medal) :2nd_place_medal:
 - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction **268/1636** (no medal)
