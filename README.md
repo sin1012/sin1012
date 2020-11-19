@@ -1,5 +1,5 @@
 ## I am sin
-Current Ranking: **384th in the world** up to 10/29/2020
+Current Ranking: **384th in the world** up to 11/18/2020
 
 ![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5168115%2F0dd1e2fd88717c0890a60cd9df557c5c%2FScreenshot_2020-11-18%20sin%20Kaggle.png?generation=1605757272705261&alt=media)
 
