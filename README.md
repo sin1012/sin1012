@@ -1,10 +1,11 @@
 ## I am sin
-Current Ranking: **354th in the world** up to 11/18/2020
+Highest Ranking: **323th in the world** 
 
-![](https://www.googleapis.com/download/storage/v1/b/kaggle-forum-message-attachments/o/inbox%2F5168115%2F930c85ec85453d5da8aa71bbed3771ee%2FScreen%20Shot%202020-12-16%20at%208.18.20%20PM.png?generation=1608175133481082&alt=media)
+![](https://github.com/sin1012/sin1012/blob/master/0204profile.png)
 
 ### Competition History:
-- Mechanism of Actions(MOA): 71/4373 (team silver medal) 🥈
+- NFL Impact Detection: 80/459 (team bronze medal) :3rd_place_medal:
+- Mechanism of Actions(MOA): 71/4373 (team silver medal) :2nd_place_medal:
 - RNSA 3D Pulmonary Embolism Detection: **30/784** (team silver medal) :2nd_place_medal:
 - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction **268/1636** (no medal)
 - Google Landmark Recognition **60/ 736**(team Bronze Medal) :3rd_place_medal:
