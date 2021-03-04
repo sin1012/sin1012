@@ -1,7 +1,7 @@
 ## I am sin
 Highest Ranking: **303th in the world** 
 
-![](https://github.com/sin1012/sin1012/blob/master/0204profile.png)
+![](https://github.com/sin1012/sin1012/blob/master/0302profile.png)
 
 ### Competition History:
 - Rainforest Connection Species Audio Detection: **46/1143** (team silver medal) :2nd_place_medal:
