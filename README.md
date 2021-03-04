@@ -1,11 +1,12 @@
 ## I am sin
-Highest Ranking: **323th in the world** 
+Highest Ranking: **303th in the world** 
 
 ![](https://github.com/sin1012/sin1012/blob/master/0204profile.png)
 
 ### Competition History:
-- NFL Impact Detection: 80/459 (team bronze medal) :3rd_place_medal:
-- Mechanism of Actions(MOA): 71/4373 (team silver medal) :2nd_place_medal:
+- Rainforest Connection Species Audio Detection: **46/1143** (team silver medal) :2nd_place_medal:
+- NFL Impact Detection: **80/459** (team bronze medal) :3rd_place_medal:
+- Mechanism of Actions(MOA): **71/4373** (team silver medal) :2nd_place_medal:
 - RNSA 3D Pulmonary Embolism Detection: **30/784** (team silver medal) :2nd_place_medal:
 - OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction **268/1636** (no medal)
 - Google Landmark Recognition **60/ 736**(team Bronze Medal) :3rd_place_medal:
