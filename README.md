@@ -1,9 +1,10 @@
 ## I am sin
 Highest Ranking: **99th in the world** 
 
-![](https://github.com/sin1012/sin1012/blob/master/0302profile.png)
+![](https://github.com/sin1012/sin1012/blob/master/Screenshot_2021-03-18%20sin%20Kaggle.png)
 
 ### Competition History:
+- RANZCR CLiP - Catheter and Line Position Challenge: **2/1547** (team Gold Medal) :1st_place_medal:
 - Rainforest Connection Species Audio Detection: **46/1143** (team silver medal) :2nd_place_medal:
 - NFL Impact Detection: **80/459** (team bronze medal) :3rd_place_medal:
 - Mechanism of Actions(MOA): **71/4373** (team silver medal) :2nd_place_medal:
