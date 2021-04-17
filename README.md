@@ -1,7 +1,7 @@
 ## I am sin
 Highest Ranking: **99th in the world** 
 
-![](https://github.com/sin1012/sin1012/blob/master/Screenshot_2021-03-18%20sin%20Kaggle.png)
+![](https://github.com/sin1012/sin1012/blob/master/sin_profile_image.png)
 
 ### Competition History:
 - RANZCR CLiP - Catheter and Line Position Challenge: **2/1547** (team Gold Medal) :1st_place_medal:
