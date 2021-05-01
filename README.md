@@ -1,7 +1,7 @@
 ## I am sin
 Highest Ranking: **97th in the world** 
 
-![](https://github.com/sin1012/sin1012/blob/master/sin_profile_image.png)
+![](https://github.com/sin1012/sin1012/blob/master/sin0501.png)
 
 ### Competition History:
 - VinBigData Chest X-ray Abnormalities Detection: **100/1277**(team Bronze Medal) :3rd_place_medal:
