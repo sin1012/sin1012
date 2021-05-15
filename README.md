@@ -4,6 +4,7 @@ Highest Ranking: **97th in the world**
 ![](https://github.com/sin1012/sin1012/blob/master/sin0501.png)
 
 ### Competition History:
+- Human Protein Atlas - Single Cell Classification: **2/757**: :1st_place_medal:
 - VinBigData Chest X-ray Abnormalities Detection: **100/1277**(team Bronze Medal) :3rd_place_medal:
 - RANZCR CLiP - Catheter and Line Position Challenge: **2/1547** (team Gold Medal) :1st_place_medal:
 - Rainforest Connection Species Audio Detection: **46/1143** (team silver medal) :2nd_place_medal:
