@@ -1,5 +1,5 @@
 ## I am sin
-Highest Ranking: **97th in the world** 
+Highest Ranking: **48th in the world** 
 
 ![](https://github.com/sin1012/sin1012/blob/master/sin0515.png)
 
